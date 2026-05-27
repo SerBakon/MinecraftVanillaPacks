@@ -12,7 +12,8 @@ Place resource packs in the launcher/resource-pack list in the order below. The 
 4. FA+ Addons (any order)
 5. FA+ All_Extensions
 6. Fresh Animations
-7. Remaining texture packs
+7. CHOOSE ONE: `C418 SONGS ONLY` or `C4 Music`
+8. Remaining texture packs
 
 Notes:
 - FA+ Addons can be stacked in any order between themselves, but they should remain above FA+ All_Extensions.
